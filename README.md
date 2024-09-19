@@ -1,6 +1,6 @@
 # Statistical Model Checking for robustness verification of different control algorithms
 
-This repository contains the UPPAAL SMC model created for the paper "Application of Statistical Model Checking for Robustness Comparison of Power Electronics Controllers" presented at the conference [PEDG 2024](https://github.com/Sapica77/SMC_for_PES_control_robustness/blob/main/Presentation/Application%20of%20SMC%20for%20Robustness%20Comparison%20of%20Power%20Electronics%20Controllers.pdf)(presentation). The paper will be uploaded after publication.
+This repository contains the UPPAAL SMC model created for the paper "Application of Statistical Model Checking for Robustness Comparison of Power Electronics Controllers" presented at the conference [PEDG 2024](https://github.com/Sapica77/SMC_for_PES_control_robustness/blob/main/Presentation/Application%20of%20SMC%20for%20Robustness%20Comparison%20of%20Power%20Electronics%20Controllers.pdf)(presentation) and [paper](https://github.com/aipoweraau/SMC_PES/blob/main/SMC_Full_paper_.pdf)
 
 
 # Abstract
